@@ -36,8 +36,7 @@ Please cite our paper with the following bibtex if you use our dataset:
 @article{ masi:multimedia12,
 author = {Bagdanov, Andrew D. and Del Bimbo, Alberto and Dini, 
 Fabrizio and Lisanti,  Giuseppe and Masi, Iacopo},
-title = {Compact and efficient posterity logging of face imagery for
-video surveillance},
+title = {Posterity Logging of Imagery for Video Surveillance},
 booktitle = {IEEE Multimedia},
 year = {2012}, }
 ```
