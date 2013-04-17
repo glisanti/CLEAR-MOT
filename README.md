@@ -48,5 +48,6 @@ Process. 2008, Article 1 (January 2008), 10 pages.” DOI=10.1155/2008/246309
 http://dx.doi.org/10.1155/2008/246309
 
 ##License
-CLEAR-MOT Matlab script is Copyright (c) 2013 of Iacopo Masi and Giusppe Lisanti <masi,lisanti> @dsi.unifi.it. 
-Media Integration and Communication Center (MICC), University of Florence. 
+CLEAR-MOT Matlab script is Copyright (c) 2013 of Iacopo Masi and Giusppe Lisanti *\<masi,lisanti\>@dsi.unifi.it*.
+
+[Media Integration and Communication Center (MICC), University of Florence. ](http://www.micc.unifi.it/vim).
