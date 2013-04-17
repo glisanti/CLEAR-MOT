@@ -51,5 +51,4 @@ http://dx.doi.org/10.1155/2008/246309
 
 ##License
 CLEAR-MOT Matlab script is Copyright (c) 2013 of Iacopo Masi and Giusppe Lisanti *\<masi,lisanti\>@dsi.unifi.it*.
-
 [Media Integration and Communication Center (MICC), University of Florence. ](http://www.micc.unifi.it/vim)
