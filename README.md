@@ -17,6 +17,7 @@ The tarball contains these MATLAB files:
 
 
 ## Demo Example
+To run our code and have a brief results just copy-paste this code:
 
 	load groundtruth
 	load result
@@ -25,7 +26,9 @@ The tarball contains these MATLAB files:
 	ClearMOT = evaluateMOT(gt,result,VOCscore,dispON);
 
 
-## Please cite our paper with the following bibtex if you use our dataset:
+## Citation
+
+Please cite our paper with the following bibtex if you use our dataset:
 
 ``` latex
 @article{ masi:multimedia12,
