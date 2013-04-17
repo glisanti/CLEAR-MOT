@@ -20,9 +20,9 @@ The tarball contains these MATLAB/Octave files:
 
 ## Demo Example
 To run our code and have a brief results just copy-paste this code:
-
-	load groundtruth
-	load result
+	
+	%this gives the results and the groundtruth
+	generateData
 	VOCscore = 0.5;
 	dispON  = true;
 	ClearMOT = evaluateMOT(gt,result,VOCscore,dispON);
