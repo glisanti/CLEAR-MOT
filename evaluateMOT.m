@@ -182,7 +182,6 @@ for i=1:numFrames;
 end
 
 ClearMOT.rateFN = falseneg/gt;
-ClearMOT.rateFP = falseneg/gt;
 ClearMOT.rateTP = truepos/gt;
 ClearMOT.rateFP = falsepos/gt;
 ClearMOT.TP = truepos;
@@ -194,7 +193,7 @@ ClearMOT.MOTA = 1. - ( ( falseneg + falsepos + idswitch ) / gt );
 
 if dispON
    disp('------ ::RESULTS:: ---------');
-   disp(['rateFP = ', num2str(ClearMOT.rateFN) '  (',num2str(ClearMOT.rateFN*100), '%)']);
+   disp(['rateFP = ', num2str(ClearMOT.rateFP) '  (',num2str(ClearMOT.rateFP*100), '%)']);
    disp(['rateTP = ', num2str(ClearMOT.rateTP) '  (',num2str(ClearMOT.rateTP*100), '%)']);
    disp(['rateFN = ', num2str(ClearMOT.rateFN) '  (',num2str(ClearMOT.rateFN*100), '%)']);
    disp('----------------------------');
