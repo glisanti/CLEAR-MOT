@@ -4,6 +4,12 @@ A standard metric for evaluating the multiple target tracking algorithm is the C
 
 ![Clear MOT matlab script](http://www.micc.unifi.it/masi/wp-content/uploads/2012/05/Schermata-05-2456054-alle-17.53.02.png)
 
+## Papers using our code
+
+[1] D. Karatzas, F. Shafait, S. Uchida, M. Iwamura, L. Gomez i Bigorda, S. Robles Mestre, J. Mas, D. Fernandez Mota, J. Almazan Almazan; L.-P. de las Heras, "ICDAR 2013 Robust Reading Competition," Document Analysis and Recognition (ICDAR), 2013 12th International Conference on , vol., no., pp.1484,1493, 25-28 Aug. 2013 doi: 10.1109/ICDAR.2013.221
+
+[2] A. Milan, K. Schindler, S. Roth, "Challenges of Ground Truth Evaluation of Multi-target Tracking," Computer Vision and Pattern Recognition Workshops (CVPRW), 2013 IEEE Conference on , vol., no., pp.735,742, 23-28 June 2013 doi: 10.1109/CVPRW.2013.111
+
 ## Details
 
 We provide the code that implements the metric CLER-MOT has described by the authors in [1]. The function is implemented in MATLAB and has been tested
