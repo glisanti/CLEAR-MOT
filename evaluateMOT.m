@@ -18,7 +18,7 @@
 %   - INPUT:
 %   GROUNDTRUTH is a cell array where the index referst to the i-th frame.
 %   GROUNDTRUTH{i} is the set of lablled bounding boxes (bbox). The bbox
-%   format is %   bbox = [id tl.x tl.y br.x br.y] where id is the ID of the target; tl
+%   format is %   bbox = [id tl.x tl.y witdh height] where id is the ID of the target; tl
 %   is the top-left corner of the bbox and br is the bottom-right one.
 %
 %   RESULT is the structure array that contains the tracking results. See
