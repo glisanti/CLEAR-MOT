@@ -1,4 +1,4 @@
-#CLEAR-MOT
+# CLEAR-MOT
 
 A standard metric for evaluating the multiple target tracking algorithm is the CLEAR MOT.  This metric is described in the paper [1] .
 
