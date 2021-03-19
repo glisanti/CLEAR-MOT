@@ -49,6 +49,21 @@ booktitle = {IEEE Multimedia},
 year = {2012}, }
 ```
 
+and
+
+```latex
+@article{lisanti2016continuous,
+  title={Continuous localization and mapping of a pan--tilt--zoom camera for wide area tracking},
+  author={Lisanti, Giuseppe and Masi, Iacopo and Pernici, Federico and Del Bimbo, Alberto},
+  journal={Machine Vision and Applications},
+  volume={27},
+  number={7},
+  pages={1071--1085},
+  year={2016},
+  publisher={Springer}
+}
+```
+
 ## References
 
 [1] Keni Bernardin and Rainer Stiefelhagen. “Evaluating multiple
