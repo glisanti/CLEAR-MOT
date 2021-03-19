@@ -38,7 +38,7 @@ To run our code and have a brief results just copy-paste this code:
 
 ## Citation
 
-Please cite our paper with the following bibtex if you use our dataset:
+Please cite our papers with the following bibtex if you use our dataset:
 
 ``` latex
 @article{ masi:multimedia12,
